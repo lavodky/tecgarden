@@ -1,33 +1,22 @@
-🌱🪴🏵️🌵🌿☘️🌰🧑‍💻⚙️🤑🎋🎍📱💻🥗🌶️🍆🥦🥬
-🥒🫑🍄🍀🌳🌹🥕🧅💐🥔🍈🍃🌡️☀️💧✅♻️💲🌍## Horta e Tecnolgia
+## Horta e Tecnolgia
 
-Tecnologia tem sido usada para aumentar o lucro se aproveitando da natureza. Esse projeto
-tambem usa tecnologia como microcontroladores e sensores que monitoram a plantação. Sabemos que por ai existem muitos 
+Desde sempre a tecnologia manipula a natureza de maneira destrutiva para interesse proprio ou interesses lucrativos. Esse projeto
+tambem usa tecnologia como microcontroladores e sensores que monitoram a plantação para aumentar a eficiencia na plantação. Sabemos que por ai existem muitos 
 projetos como este mas ainda não é o bastante. Construir e usar tecnologia que nos dá liberdade, não escravidão.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+🌱🪴🏵️🌵🌿☘️🌰🧑‍💻⚙️🤑🎋🎍📱💻🥗🌶️🍆🥦🥬
+🥒🫑🍄🍀🌳🌹🥕🧅💐🥔🍈🍃🌡️☀️💧✅♻️💲🌍
 
 ### Markdown
 Hellow Word
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+```mermaid
+flowchar LR
+Horta-- sensores inteligentes--> produção com qualidade -- embalagem/processamento --> entrega
+​```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
