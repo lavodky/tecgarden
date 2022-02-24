@@ -15,7 +15,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```mermaid
 flowchar LR
-Horta-- sensores inteligentes--> produção com qualidade -- embalagem/processamento --> entrega
+
+Horta -- sensores inteligentes --> produção com qualidade -- embalagem/processamento --> entrega
 ​```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
