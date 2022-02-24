@@ -1,6 +1,3 @@
----
-layout: default
----
 
 
 ## Horta e Tecnolgia

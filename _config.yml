@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
-description: [Construir tecnologia que nos dará liberdade, não escravidão.]
+gems: [jekyll-mermaid]
+mermaid:
+  src: C:/Users/s1dn3/mermaid/src/mermaid.js'
 
-owner: [@_zkowsky]
-year: [2021]
 
-_layouts/default.html
+  
