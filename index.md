@@ -14,7 +14,10 @@ Hellow Word
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```mermaid
+%%{init: {'theme': 'neutral' } }%%
+
 flowchar LR
+
 
 Horta -- sensores inteligentes --> produção com qualidade -- embalagem/processamento --> entrega
 ​```
