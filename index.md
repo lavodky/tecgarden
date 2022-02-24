@@ -1,3 +1,6 @@
+---
+mermaid: true
+---
 
 
 ## Horta e Tecnolgia
