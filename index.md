@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## Horta e Tecnolgia
 
 Desde sempre a tecnologia manipula a natureza de maneira destrutiva para interesse proprio ou interesses lucrativos. Esse projeto
