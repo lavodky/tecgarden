@@ -12,6 +12,16 @@ projetos como este mas ainda não é o bastante. Construir e usar tecnologia que
 🥒🫑🍄🍀🌳🌹🥕🧅💐🥔🍈🍃🌡️☀️💧✅♻️💲🌍
 
 ### Markdown
+
+
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
+
 Hellow Word
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
