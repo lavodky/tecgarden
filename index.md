@@ -14,6 +14,9 @@ projetos como este mas ainda não é o bastante. Construir e usar tecnologia que
 ### Markdown
 
 
+<div class="mermaid"> graph TD; A-->B; A-->C; B-->D; C-->D; </div>
+
+
 {% mermaid %}
 graph TD;
     A-->B;
