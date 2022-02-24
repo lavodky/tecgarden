@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+🌱🪴🏵️🌵🌿☘️🌰🧑‍💻⚙️🤑🎋🎍📱💻🥗🌶️🍆🥦🥬
+🥒🫑🍄🍀🌳🌹🥕🧅💐🥔🍈🍃🌡️☀️💧✅♻️💲🌍## Horta e Tecnolgia
 
-You can use the [editor on GitHub](https://github.com/lavodky/tecgarden/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tecnologia tem sido usada para aumentar o lucro se aproveitando da natureza. Esse projeto
+tambem usa tecnologia como microcontroladores e sensores que monitoram a plantação. Sabemos que por ai existem muitos 
+projetos como este mas ainda não é o bastante. Construir e usar tecnologia que nos dá liberdade, não escravidão.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
