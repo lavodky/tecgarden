@@ -1,4 +1,4 @@
-<script src="/assets/js/dist/mermaid.min.js">
+
 
 
 ## Horta e Tecnolgia
@@ -14,7 +14,7 @@ projetos como este mas ainda não é o bastante. Construir e usar tecnologia que
 
 ### Markdown
 
-
+[![](https://mermaid.ink/img/pako:eNo1jTEOwjAQBL9iXU1En4IKOipoLaHDviQWti-cbSEU5TUUPCQfw0FQ7Uo7o53AsCVoofP8MANKVseTjkqpgSWjahqVKCYWSsrFTN71VCPVYadGYVuW9_Lii-FwuRf0zqKl1aJwRY89hW2lDKWEoYr89WoR6hE2EEgCOlv_p_VUQx4okIa2Voty06DjXLkyWsx0sC6zQNuhT7QBLJnPz2igzVLoD-0d9oLhR80fTdJP1g)](https://mermaid.live/edit#pako:eNo1jTEOwjAQBL9iXU1En4IKOipoLaHDviQWti-cbSEU5TUUPCQfw0FQ7Uo7o53AsCVoofP8MANKVseTjkqpgSWjahqVKCYWSsrFTN71VCPVYadGYVuW9_Lii-FwuRf0zqKl1aJwRY89hW2lDKWEoYr89WoR6hE2EEgCOlv_p_VUQx4okIa2Voty06DjXLkyWsx0sC6zQNuhT7QBLJnPz2igzVLoD-0d9oLhR80fTdJP1g)
 <div class="mermaid"> graph TD; A-->B; A-->C; B-->D; C-->D; </div>
 
 ```mermaid
