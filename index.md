@@ -1,10 +1,10 @@
 
 
 
-## Horta e Tecnolgia
+## 🌱 Horta e Tecnolgia 🧑‍💻
 
 Desde sempre a tecnologia manipula a natureza de maneira destrutiva para interesse proprio ou interesses lucrativos. Esse projeto
-tambem usa tecnologia como microcontroladores e sensores que monitoram a plantação para aumentar a eficiencia na plantação. Sabemos que por ai existem muitos 
+tambem usa tecnologia como microcontroladores e sensores que monitoram a plantação para aumentar a eficiencia. Sabemos que por ai existem muitos 
 projetos como este mas ainda não é o bastante. Construir e usar tecnologia que nos dá liberdade, não escravidão.
 
 
@@ -14,53 +14,6 @@ projetos como este mas ainda não é o bastante. Construir e usar tecnologia que
 
 ### Markdown
 
-![link](https://raw.githubusercontent.com/lavodky/tecgarden/ce1f5495d5af1cf851b32e253652ba0bbd448c8e/mermaid-diagram-20220224215915.svg))
-
-
-
-
-<div class="mermaid"> graph TD; A-->B; A-->C; B-->D; C-->D; </div>
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-``` 
-
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
-
-
-
-
-{% mermaid %}
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-{% endmermaid %}
-
-Hellow Word
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-{% mermaid %}
-
-
-flowchar LR
-
-
-Horta -- sensores inteligentes --> produção com qualidade -- embalagem/processamento --> entrega
-{% endmermaid %}
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
