@@ -1,4 +1,4 @@
-<script src="/assets/js/src/mermaid.min.js">
+<script src="/assets/js/dist/mermaid.min.js">
 
 
 ## Horta e Tecnolgia
