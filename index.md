@@ -14,7 +14,7 @@ projetos como este mas ainda não é o bastante. Construir e usar tecnologia que
 
 ### Markdown
 
-![link](C:\Users\s1dn3\tecgarden\mermaid-diagram-20220224215915.svg)
+![link](https://raw.githubusercontent.com/lavodky/tecgarden/ce1f5495d5af1cf851b32e253652ba0bbd448c8e/mermaid-diagram-20220224215915.svg))
 
 
 
