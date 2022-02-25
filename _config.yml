@@ -1,7 +1,5 @@
 theme: jekyll-theme-hacker
-gems: [jekyll-mermaid]
-mermaid:
-  src: Users/s1dn3/mermaid/src/mermaid.js'
+
 
 
   
