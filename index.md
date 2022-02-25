@@ -15,6 +15,8 @@ projetos como este mas ainda não é o bastante. Construir e usar tecnologia que
 Queremos entregar os produtos da horta pra literalmente qualquer pessoa que vier e pegar.
 
 
+![flow](tecgarden\mermaid-diagram-20220224215915.svg)
+
 ### arduino, sensores, sementes e terra 
 
 
