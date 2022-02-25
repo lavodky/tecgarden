@@ -15,6 +15,8 @@ projetos como este mas ainda não é o bastante. Construir e usar tecnologia que
 ### Markdown
 
 ![link](https://github.com/lavodky/tecgarden/blob/gh-pages/mermaid-diagram-20220224215915.svg)
+
+
 <div class="mermaid"> graph TD; A-->B; A-->C; B-->D; C-->D; </div>
 
 ```mermaid
